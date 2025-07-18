@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Yong;Janice;;;
+FN:Janice Yong
+ORG:Time Emporium Pte Ltd
+TITLE:Senior Sales Admin Coordinator
+TEL;TYPE=WORK,VOICE:+6563125902
+EMAIL:janice.yong@timeemporium.com
+URL:https://timeemporium.com
+ADR;TYPE=WORK:;;10 Airport Boulevard, Changi Airport;T4 Office, #02-261;;;819665;Singapore
+END:VCARD
